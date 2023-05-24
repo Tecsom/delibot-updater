@@ -1,6 +1,5 @@
 # Delibot instalador
-
-A brief description of what this project does and who it's for
+Repo para actualizar la aplicación de delibot
 
 
 ## Versiones
